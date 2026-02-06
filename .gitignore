@@ -9,6 +9,7 @@ dist/
 .env
 .env.test
 .env.production
+.env.local
 
 # logs
 npm-debug.log*
