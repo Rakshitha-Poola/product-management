@@ -110,7 +110,8 @@ MONGODB_URI=mongodb://localhost:27017/product-management
 CORS_ORIGIN=http://localhost:3000  
 
 Frontend:
-client/.env.local
+client/.env.test
+client/.env.production
 
 Example:
 NEXT_PUBLIC_API_BASE_URL=http://localhost:5001  
